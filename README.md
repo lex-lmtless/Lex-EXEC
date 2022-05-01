@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lex-Ltd
-- 👀 I’m interested in Animation
-- 🌱 I’m currently learning anything i can
+- 👋 Hi, this is @Lex-Ltd
+- 👀 Interested in Animation, willing to expand
+- 🌱 Currently learning anything we can for future application
 - 💞️ I’m looking to collaborate on important assignments only
 
 <!---
