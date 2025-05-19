@@ -1,5 +1,5 @@
-- 👋 Hi, this is @Lex-Ltd
-- 👀 Interested in Animation, willing to expand
+- 👋 Hi, this is @Lex-Limitless
+- 👀 Interested in ALL forms of progess & willing to expand
 - 🌱 Currently learning anything we can for future application
 - 💞️ I’m looking to collaborate on important assignments only
 
